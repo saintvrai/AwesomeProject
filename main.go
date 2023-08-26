@@ -1,4 +1,4 @@
-package AwesomeProject
+package main
 
 func main() {
 
