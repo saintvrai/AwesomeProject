@@ -1,5 +1,0 @@
-package AwesomeProject
-
-func main() {
-
-}
